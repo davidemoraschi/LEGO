@@ -1,0 +1,8 @@
+C:\sources\LEGO\readmotors\readmotors\bin\Debug\readmotors.exe.config
+C:\sources\LEGO\readmotors\readmotors\obj\Debug\readmotors.csprojResolveAssemblyReference.cache
+C:\sources\LEGO\readmotors\readmotors\bin\Debug\readmotors.exe
+C:\sources\LEGO\readmotors\readmotors\bin\Debug\readmotors.pdb
+C:\sources\LEGO\readmotors\readmotors\bin\Debug\Lego.Ev3.Desktop.dll
+C:\sources\LEGO\readmotors\readmotors\bin\Debug\Lego.Ev3.Desktop.xml
+C:\sources\LEGO\readmotors\readmotors\obj\Debug\readmotors.exe
+C:\sources\LEGO\readmotors\readmotors\obj\Debug\readmotors.pdb

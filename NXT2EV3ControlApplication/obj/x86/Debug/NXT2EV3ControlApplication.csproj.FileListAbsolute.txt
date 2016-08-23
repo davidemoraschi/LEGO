@@ -1,0 +1,24 @@
+C:\Users\odenthalh\documents\visual studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\bin\Debug\NXT2EV3ControlApplication.exe
+C:\Users\odenthalh\documents\visual studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\bin\Debug\NXT2EV3ControlApplication.pdb
+C:\Users\odenthalh\documents\visual studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.NXT2EV3ControlApplicationForm.resources
+C:\Users\odenthalh\documents\visual studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.Properties.Resources.resources
+C:\Users\odenthalh\documents\visual studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.exe
+C:\Users\odenthalh\documents\visual studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.pdb
+C:\Users\odenthalh\Documents\Visual Studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.csproj.GenerateResource.Cache
+C:\Users\odenthalh\Documents\Visual Studio 2010\Projects\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.csprojResolveAssemblyReference.cache
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.exe
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.pdb
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\bin\Debug\NXT2EV3ControlApplication.exe
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\bin\Debug\NXT2EV3ControlApplication.pdb
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.csprojResolveAssemblyReference.cache
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.NXT2EV3ControlApplicationForm.resources
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.Properties.Resources.resources
+C:\Users\odenthalh\Dropbox\Visual Studio\NXT2EV3ControlApplication\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.csproj.GenerateResource.Cache
+C:\sources\LEGO\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.exe
+C:\sources\LEGO\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.pdb
+C:\sources\LEGO\NXT2EV3ControlApplication\bin\Debug\NXT2EV3ControlApplication.exe
+C:\sources\LEGO\NXT2EV3ControlApplication\bin\Debug\NXT2EV3ControlApplication.pdb
+C:\sources\LEGO\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.csprojResolveAssemblyReference.cache
+C:\sources\LEGO\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.NXT2EV3ControlApplicationForm.resources
+C:\sources\LEGO\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.Properties.Resources.resources
+C:\sources\LEGO\NXT2EV3ControlApplication\obj\x86\Debug\NXT2EV3ControlApplication.csproj.GenerateResource.Cache
